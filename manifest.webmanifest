@@ -2,7 +2,7 @@
   "name": "Our Finances",
   "short_name": "Finances",
   "description": "Household budget",
-  "id": "./",
+  "id": "finances",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
