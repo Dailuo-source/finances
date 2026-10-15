@@ -1,6 +1,6 @@
 {
-  "name": "Our Finances",
-  "short_name": "Finances",
+  "name": "Finance Friend",
+  "short_name": "Finance Friend",
   "description": "Household budget",
   "id": "finances",
   "start_url": "./",
