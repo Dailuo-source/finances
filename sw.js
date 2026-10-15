@@ -1,6 +1,6 @@
 // Keeps the app's own shell (icon, loading screen) on the phone so it opens instantly.
 // Your budget itself always comes live from Google; nothing financial is stored here.
-const CACHE = 'finances-shell-v4';
+const CACHE = 'finances-shell-v5';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'];
 
 self.addEventListener('install', e => {
